@@ -1,0 +1,13 @@
+{
+  "/_not-found/page": "app/_not-found/page.js",
+  "/api/admin/stats/route": "app/api/admin/stats/route.js",
+  "/admin/page": "app/admin/page.js",
+  "/admin/login/page": "app/admin/login/page.js",
+  "/api/download/[token]/route": "app/api/download/[token]/route.js",
+  "/api/checkout/route": "app/api/checkout/route.js",
+  "/api/products/route": "app/api/products/route.js",
+  "/api/purchase/verify/route": "app/api/purchase/verify/route.js",
+  "/api/webhook/stripe/route": "app/api/webhook/stripe/route.js",
+  "/purchase/success/page": "app/purchase/success/page.js",
+  "/page": "app/page.js"
+}
